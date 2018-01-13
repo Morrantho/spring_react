@@ -1,0 +1,5 @@
+com/project/spring_react/repositories/UserRepository.class
+com/project/spring_react/controllers/UserController.class
+com/project/spring_react/models/User.class
+com/project/spring_react/spring_reactApplication.class
+com/project/spring_react/services/UserService.class
